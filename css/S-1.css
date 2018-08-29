@@ -1,0 +1,131 @@
+body 
+{
+  width:1000 px;
+  background-color:#fff;
+  margin-left:auto;
+  margin-right:auto;
+}
+.container
+{
+width:1000 px;
+margin-left:auto;
+margin-right:auto;
+color:#fff;
+text align:center;
+background-color:#21c6f8;
+}
+footer {
+	background:url(../images/bg-footer.jpg) repeat-x;
+	padding:39px 0 0;
+}
+.footer div {
+	margin:0 auto;
+	overflow:hidden;
+	padding:0 10px;
+	width:942px;
+}
+.footer div div:first-child {
+	margin:0;
+	padding:0 10px;
+	width:255px;
+}
+.footer div div:first-child a#footer-logo {
+	background:none;
+	display:block;
+	height:39px;
+	margin:7px 0 0;
+}
+.footer div div:first-child a#footer-logo img {
+	opacity:100;
+}
+.footer div div:first-child a {
+	background:url(../images/interface.png) no-repeat -71px -96px;
+	display:block;
+	height:46px;
+	margin:26px 0 0;
+	text-indent:-99999px;
+	width:222px;
+}
+.footer div div:first-child a:hover {
+	background:url(../images/interface.png) no-repeat -230px -336px;
+}
+.footer div div {
+	background:url(../images/border-brown.jpg) repeat-y right top;
+	float:left;
+	margin:0 0 0 30px;
+	min-height:124px;
+	padding:0 36px 0 0;
+	width:327px;
+}
+.footer div div h4 {
+	color:#df6900;
+	font-family:maiden_orangeregular;
+	font-size:18px;
+	font-weight:400;
+	letter-spacing:.025em;
+	line-height:39px;
+	margin:0;
+	text-transform:uppercase;
+}
+.footer div div a {
+	color:#3f5c05;
+	font-size:12px;
+	line-height:14px;
+	margin:0 0 14px;
+	text-decoration:none;
+	display:block;
+}
+.footer div div a:hover {
+	color:#699908;
+}
+.footer div div.connect {
+	background:none;
+	margin:0;
+	padding:0 18px 0 51px;
+	width:202px;
+}
+.footer div div.connect a {
+	margin:0;
+}
+.footer div div.connect a#facebook {
+	background:url(../images/icons.png) no-repeat;
+	display:block;
+	float:left;
+	height:24px;
+	text-indent:-99999px;
+	width:12px;
+}
+.footer div div.connect a#facebook:hover {
+	background:url(../images/icons.png) no-repeat 0 -25px;
+}
+.footer div div.connect a#twitter {
+	background:url(../images/icons.png) no-repeat -13px 0;
+	display:block;
+	float:left;
+	height:24px;
+	margin:0 23px 0 22px;
+	text-indent:-99999px;
+	width:24px;
+}
+.footer div div.connect a#twitter:hover {
+	background:url(../images/icons.png) no-repeat -13px -25px;
+}
+.footer div div.connect a#googleplus {
+	background:url(../images/icons.png) no-repeat -38px 0;
+	display:block;
+	float:left;
+	height:24px;
+	text-indent:-99999px;
+	width:24px;
+}
+.footer div div.connect a#googleplus:hover {
+	background:url(../images/icons.png) no-repeat -38px -25px;
+}
+.footer div div.connect p {
+	clear:both;
+	color:#fff;
+	font-size:11px;
+	line-height:14px;
+	padding:17px 0 0;
+	margin:0;
+}
